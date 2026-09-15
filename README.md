@@ -4,6 +4,8 @@
 
 📍 São Paulo, SP — Brasil · 📧 lucas.gasparinno@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/lucas-gasparino-94a87a173)
 
+🌐 **Portfólio: [lucasmarquesgasparino.github.io](https://lucasmarquesgasparino.github.io)**
+
 ## O que eu faço
 
 - **Data Science Specialist @ IBM** (desde 2019): modelos de ML em Big Data (AWS SageMaker, Athena, PySpark), NLP, inferência Bootstrap, classificação/regressão, detecção de anomalias, MLOps, Power BI e automação com IA Generativa — clientes como Itaú, Vale e Claro.
